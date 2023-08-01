@@ -19,7 +19,7 @@ import Pom_Repo.Home_Page;
  * @author sudarshan
  *
  */
-//Vereify that User can add and Remove the Book from the list
+//Vereify that User can add and Remove the Book from the MyBooklist
 public class TC_001_Test extends Base_Script {
 	@Test
 	public void TestCase() throws IOException, InterruptedException {
